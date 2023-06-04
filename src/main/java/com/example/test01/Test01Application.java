@@ -10,6 +10,7 @@ public class Test01Application {
         SpringApplication.run(Test01Application.class, args);
         System.out.println("123");
         System.out.println("this is hot-fix1111");
+        System.out.println("this is master info");
     }
 
 }
