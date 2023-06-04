@@ -11,6 +11,7 @@ public class Test01Application {
         System.out.println("123");
         System.out.println("this is hot-fix1111");
         System.out.println("this is master info");
+        System.out.println("hot-fix commit");
     }
 
 }
